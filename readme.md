@@ -24,6 +24,6 @@ You must follow any rules posted or you will not get support.
 - Your are not allowed to edit this code without the permission from Play Piglin Network. You may make a pull request though.
 - On top of this you are not allowed to upload your modifyed version of this template.
   
-  Not Following the terms of service will result in you being Kicked from any support places(Discord server and website) 
+  Voiding the terms of service will result in you being Kicked from any support places(Discord server and website) 
   On top of this your support threads will be deneyd.
   
