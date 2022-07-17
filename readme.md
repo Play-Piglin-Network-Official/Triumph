@@ -19,7 +19,7 @@ You must follow any rules posted or you will not get support.
 ## License
 [MIT](https://choosealicense.com/licenses/gpl-3.0/)
 
-## Terms of Service 
+## Terms and conditions 
 - Redistribution of the resource's code in any way, shape, or form is prohibited. This includes edited versions of the code.
 - Your are not allowed to edit this code without the permission from Play Piglin Network. You may make a pull request though.
 - On top of this you are not allowed to upload your modifyed version of this template.
